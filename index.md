@@ -13,6 +13,6 @@ Welcome to my EDS124BR website where I will show all of the links to the videos 
 
 [EDS Week 4 P1](https://youtu.be/eVTAlwzujgs)
 
-[EDS Week 6 P1](https://youtu.be/eVTAlwzujgs](https://youtu.be/AMJEAUHtwYs)
+[EDS Week 6 P1](https://youtu.be/AMJEAUHtwYs)
 
  Raul Valadez A16167148

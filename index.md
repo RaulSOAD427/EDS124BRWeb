@@ -17,4 +17,7 @@ Welcome to my EDS124BR website where I will show all of the links to the videos 
 
 [EDS Week 7 P1](https://youtu.be/vJC0U1SV-yc)
 
+[EDS Week 8 P1](https://youtu.be/z2Y4a60Rwnw)
+
+
  Raul Valadez A16167148

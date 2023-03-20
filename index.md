@@ -21,4 +21,8 @@ Welcome to my EDS124BR website where I will show all of the links to the videos 
 
 [EDS Week 9](https://youtu.be/Ti7wtU0Cxpc)
 
+[EDS Week 10](https://youtu.be/m0jU2FgWwfI)
+
+
+
  Raul Valadez A16167148
